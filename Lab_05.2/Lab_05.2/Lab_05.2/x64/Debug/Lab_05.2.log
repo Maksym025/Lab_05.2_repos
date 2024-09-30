@@ -1,0 +1,5 @@
+﻿  Lab_05.21.cpp
+  Lab_05.22.cpp
+  Generating Code...
+Lab_05.22.obj : error LNK2005: main already defined in Lab_05.21.obj
+C:\Users\MY\source\repos\Lab_05.2\Lab_05.2\x64\Debug\Lab_05.2.exe : fatal error LNK1169: one or more multiply defined symbols found
